@@ -1,29 +1,12 @@
-# Byte-compiled / cache
+# Ignore dataset and cache
+data/
+*.h5
+*.zip
+*.csv
+
+# Ignore Python cache
 __pycache__/
-*.py[cod]
-*.so
+*.pyc
 
-# Virtual env
+# Ignore virtual environment
 .venv/
-env/
-venv/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Data and models
-/data/
-/models/
-/outputs/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Python packaging
-*.egg-info/
-dist/
-build/
-
-# VS Code
-.vscode/

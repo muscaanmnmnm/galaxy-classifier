@@ -20,3 +20,30 @@ It is designed as an educational demo for the **Lahore Science Mela 2025**, maki
 1. Create virtual environment:
    ```bash
    python -m venv .venv
+
+2. Activate environment (Windows PowerShell):
+```powershell
+.venv\Scripts\Activate.ps1
+
+3. Install dependencies:
+```powershell
+pip install -r requirements.txt
+
+4. Launch Jupyter Lab:
+```powershell
+jupyter lab
+
+
+
+
+5. License
+
+Open-source for educational purposes.
+
+
+
+6. How to run Streamlit app:
+bash
+streamlit run app.py 
+
+7. For visual demo, another repo galaxy-classifier-demo is made!!
