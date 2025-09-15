@@ -42,8 +42,6 @@ Open-source for educational purposes.
 
 
 
-6. How to run Streamlit app:
-bash
-streamlit run app.py 
+6. For Visual Demo, please check out the link given below:
 
-7. For visual demo, another repo galaxy-classifier-demo is made!!
+https://v0-galaxy-classifier-webpage.vercel.app/
